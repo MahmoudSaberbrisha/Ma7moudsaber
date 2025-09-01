@@ -56,10 +56,10 @@ I'm a **passionate software engineer** and proud graduate of the **Faculty of Co
 </div>
 
 ## 📫 Connect with Me
-- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)
-- 🔗 **LinkedIn**: [Your Profile](https://linkedin.com/in/your-profile)
-- 🐦 **X (Twitter)**: [Your Handle](https://x.com/your-handle)
-- 💼 **Portfolio**: [Your Website](https://your-portfolio.com)
+- 📧 **Email**: [mido10sb@gmail.com](mailto:mido10sb@gmail.com)
+- 🔗 **LinkedIn**: [](https://l)
+- 🐦 **X (Twitter)**: [](https://)
+- 💼 **Portfolio**: [](https://)
 
 ## 😎 Why Team Up with Me?
 I'm more than a coder – I'm a visionary who turns challenges into opportunities. With a blend of technical prowess and creative flair, I deliver AI solutions that predict the future, websites that engage, apps that delight, and software that empowers. Ready to elevate your project? Let's chat and make magic happen!
